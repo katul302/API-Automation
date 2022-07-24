@@ -15938,3 +15938,35 @@ org.apache.maven.artifact.versioning.InvalidVersionSpecificationException: Singl
 2022-07-24 04:04:38,805 [Worker-722: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\main\resources
 2022-07-24 04:04:38,806 [Worker-722: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-07-24 04:04:38,806 [Worker-722: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\test\resources
+2022-07-24 04:09:39,066 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:09:39,067 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\main\resources
+2022-07-24 04:09:39,069 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:09:39,070 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\test\resources
+2022-07-24 04:09:39,089 [Worker-724: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:09:39,091 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\main\resources
+2022-07-24 04:09:39,093 [Worker-724: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:09:39,094 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\test\resources
+2022-07-24 04:14:39,282 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:14:39,283 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\main\resources
+2022-07-24 04:14:39,290 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:14:39,290 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\test\resources
+2022-07-24 04:14:39,302 [Worker-724: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:14:39,302 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\main\resources
+2022-07-24 04:14:39,304 [Worker-724: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:14:39,304 [Worker-724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\test\resources
+2022-07-24 04:19:39,579 [Worker-727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:19:39,580 [Worker-727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\main\resources
+2022-07-24 04:19:39,582 [Worker-727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:19:39,583 [Worker-727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\test\resources
+2022-07-24 04:19:39,600 [Worker-727: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:19:39,602 [Worker-727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\main\resources
+2022-07-24 04:19:39,603 [Worker-727: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:19:39,604 [Worker-727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\test\resources
+2022-07-24 04:24:39,878 [Worker-728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:24:39,879 [Worker-728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\main\resources
+2022-07-24 04:24:39,883 [Worker-728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 04:24:39,883 [Worker-728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\APIFramework\src\test\resources
+2022-07-24 04:24:39,909 [Worker-728: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:24:39,912 [Worker-728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\main\resources
+2022-07-24 04:24:39,915 [Worker-728: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-24 04:24:39,916 [Worker-728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\API Automatiom\cucmbermavenjava\src\test\resources
