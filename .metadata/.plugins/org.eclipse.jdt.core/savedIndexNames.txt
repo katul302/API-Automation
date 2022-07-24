@@ -1,9 +1,0 @@
-INDEX VERSION 1.131+D:\API Automatiom\.metadata\.plugins\org.eclipse.jdt.core
-2201483361.index
-3558685389.index
-2690992014.index
-2082197805.index
-1327138100.index
-2332796974.index
-3397293651.index
-2794413307.index

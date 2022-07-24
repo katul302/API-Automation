@@ -1,9 +1,0 @@
-package DemoProject.aks;
-
-public class serializeTest {
-
-	public static void main(String[] args) {
-
-	}
-
-}

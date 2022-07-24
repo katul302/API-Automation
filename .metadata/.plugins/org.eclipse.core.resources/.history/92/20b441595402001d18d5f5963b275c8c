@@ -1,8 +1,0 @@
-package serialized;
-
-public class location {
-	
-	private double  lat;
-	private  double lng;
-
-}
