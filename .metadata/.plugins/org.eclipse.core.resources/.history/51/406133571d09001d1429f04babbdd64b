@@ -1,0 +1,28 @@
+package Resources;
+
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.http.ContentType;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+
+public class Utils {
+	RequestSpecification rsb;
+	ResponseSpecification resspec;
+
+	public RequestSpecification requestSpecfication() {
+		RestAssured.baseURI = "https://rahulshettyacademy.com";
+
+		rsb = new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123")
+				.setContentType(ContentType.JSON).build();
+		return rsb;
+
+	}
+
+	public ResponseSpecification responsespec() {
+
+		resspec = new ResponseSpecBuilder().expectStatusCode(200).expectContentType(ContentType.JSON).build();
+		return resspec;
+	}
+}

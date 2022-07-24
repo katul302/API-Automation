@@ -1,0 +1,7 @@
+package stepdefintion;
+
+public class stepDefination {
+
+	
+	@Given("^User is on landing page$"
+}

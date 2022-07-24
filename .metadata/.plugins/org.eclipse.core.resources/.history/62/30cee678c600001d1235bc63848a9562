@@ -1,0 +1,15 @@
+package DemoProject.aks;
+
+import io.restassured.RestAssured;
+import static io.restassured.RestAssured.given;
+
+
+public class serializeTest {
+
+	public static void main(String[] args) {
+		
+		RestAssured.baseURI = "https://rahulshettyacademy.com";
+		
+	}
+
+}

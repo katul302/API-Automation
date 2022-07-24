@@ -1,0 +1,7 @@
+package stepDefinations;
+
+public class Hooks {
+
+	//Hooks is nothing but just it set pre and post condition before test execution
+	
+}

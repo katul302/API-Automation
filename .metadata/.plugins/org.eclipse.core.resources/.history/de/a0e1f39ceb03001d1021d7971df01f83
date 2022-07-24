@@ -1,0 +1,52 @@
+package stepdefintion;
+
+import org.junit.runner.RunWith;
+
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+@RunWith(Cucumber.class)
+
+public class stepDefination {
+
+	
+	@Given("^User is on landing page$")
+	
+	public void user_is_on_landing_page()
+	{
+		//code to automate
+	}
+	@Given("^User is on netbanking page$")
+	
+	public void user_is_on_netbanking_page()
+	{
+		//code to automate
+	}
+	@When("^User login into application with username and password$")
+	
+	public void user_login()
+	{
+		//code to automate
+	}
+	@When("^User reset the password$")
+	
+	public void user_password()
+	{
+		//code to automate
+	}
+	
+	@Then("^Home page is populated$")
+	
+	public void homepage()
+	{
+		//code to automate
+	}
+	@And("^Dashboard page is populated$")
+	
+	public void Dashboard()
+	{
+		//code to automate
+	}
+}
